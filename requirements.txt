@@ -1,7 +1,7 @@
 streamlit
 pandas
 yfinance
-PyPortfolioOpt
+PyPortfolioOpt==1.5.5
 scikit-learn
 plotly
 numpy==2.1.3
