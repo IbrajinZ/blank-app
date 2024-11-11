@@ -2,5 +2,6 @@ streamlit
 pandas
 yfinance
 PyPortfolioOpt
+sklearn
 plotly
 numpy==2.1.3
