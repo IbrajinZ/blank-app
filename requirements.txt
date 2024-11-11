@@ -1,6 +1,6 @@
 streamlit
 pandas
 yfinance
-pypfopt
+PyPortfolioOpt
 plotly
 numpy==2.1.3
