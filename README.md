@@ -1,6 +1,6 @@
 # Portfolio Optimization Tool 💸
 
-A simple Streamlit app template for you to modify!
+An educational App aimed for people to learn about Portfolio OPtimization Theory
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
