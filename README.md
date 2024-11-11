@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Portfolio Optimization Tool 💸
 
 A simple Streamlit app template for you to modify!
 
