@@ -1,1 +1,6 @@
 streamlit
+pandas
+yfinance
+pypfopt
+plotly
+numpy==2.1.3

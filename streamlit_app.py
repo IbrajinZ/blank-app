@@ -1,12 +1,10 @@
 # Installing dependencies
+# Installing dependencies
 import streamlit as st
 import yfinance as yf
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import pypfopt
-from pypfopt import risk_models, expected_returns, exceptions, CLA, EfficientCVaR, EfficientFrontier
+from pypfopt import risk_models, expected_returns, EfficientCVaR, EfficientFrontier
 from pypfopt.efficient_frontier import EfficientFrontier
 import plotly.express as px
 import plotly.graph_objects as go
